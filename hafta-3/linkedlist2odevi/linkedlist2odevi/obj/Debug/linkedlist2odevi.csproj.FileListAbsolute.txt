@@ -1,0 +1,10 @@
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\bin\Debug\linkedlist2odevi.exe.config
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\bin\Debug\linkedlist2odevi.exe
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\bin\Debug\linkedlist2odevi.pdb
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\obj\Debug\linkedlist2odevi.csproj.AssemblyReference.cache
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\obj\Debug\linkedlist2odevi.Form1.resources
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\obj\Debug\linkedlist2odevi.Properties.Resources.resources
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\obj\Debug\linkedlist2odevi.csproj.GenerateResource.cache
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\obj\Debug\linkedlist2odevi.csproj.CoreCompileInputs.cache
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\obj\Debug\linkedlist2odevi.exe
+C:\Users\esmab\source\repos\linkedlist2odevi\linkedlist2odevi\obj\Debug\linkedlist2odevi.pdb

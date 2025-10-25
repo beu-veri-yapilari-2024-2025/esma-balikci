@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|solutionrelative:linkedlist2odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\notsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|solutionrelative:linkedlist2odevi\\notsistemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\ogrencibaslikdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|solutionrelative:linkedlist2odevi\\ogrencibaslikdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\notdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|solutionrelative:linkedlist2odevi\\notdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\dersbaslikdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|solutionrelative:linkedlist2odevi\\dersbaslikdugumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|c:\\users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFF0C80C-AF11-4AC2-A807-106A5E91F59A}|linkedlist2odevi\\linkedlist2odevi.csproj|solutionrelative:linkedlist2odevi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\Form1.cs",
+              "RelativeDocumentMoniker": "linkedlist2odevi\\Form1.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\Form1.cs",
+              "RelativeToolTip": "linkedlist2odevi\\Form1.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwHYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:42:03.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciBaslikDugumu.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\OgrenciBaslikDugumu.cs",
+              "RelativeDocumentMoniker": "linkedlist2odevi\\OgrenciBaslikDugumu.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\OgrenciBaslikDugumu.cs",
+              "RelativeToolTip": "linkedlist2odevi\\OgrenciBaslikDugumu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:29:06.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotSistemi.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\NotSistemi.cs",
+              "RelativeDocumentMoniker": "linkedlist2odevi\\NotSistemi.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\NotSistemi.cs",
+              "RelativeToolTip": "linkedlist2odevi\\NotSistemi.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAswOcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:27:37.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotDugumu.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\NotDugumu.cs",
+              "RelativeDocumentMoniker": "linkedlist2odevi\\NotDugumu.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\NotDugumu.cs",
+              "RelativeToolTip": "linkedlist2odevi\\NotDugumu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:27:14.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DersBaslikDugumu.cs",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\DersBaslikDugumu.cs",
+              "RelativeDocumentMoniker": "linkedlist2odevi\\DersBaslikDugumu.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\DersBaslikDugumu.cs",
+              "RelativeToolTip": "linkedlist2odevi\\DersBaslikDugumu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:26:46.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\Form1.cs",
+              "RelativeDocumentMoniker": "linkedlist2odevi\\Form1.cs",
+              "ToolTip": "C:\\Users\\esmab\\source\\repos\\linkedlist2odevi\\linkedlist2odevi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "linkedlist2odevi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T12:18:54.927Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
